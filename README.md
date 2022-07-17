@@ -1,6 +1,9 @@
 # BedrockProxy
 Un proxy hack utilitaire pour Minecraft : Bedrock Edition, celui-ci permet de triché sur tout les serveurs minecraft.
 
+# Version
+'1.19.10 support'
+
 ## Serveur testé
 - Azoria
 - Solaria
