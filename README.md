@@ -1,6 +1,6 @@
 # BedrockProxy
 Un proxy hack utilitaire pour Minecraft : Bedrock Edition, celui-ci permet de triché sur tout les serveurs minecraft.
-<a href="https://github.com/Zwuiix-cmd/BedrockProxy/README.md"><img src="https://img.shields.io/github/v/tag/Zwuiix-cmd/BedrockProxy?label=release&logo=github" alt="GitHub tag (latest semver)" /></a>
+<a href="[https://github.com/Zwuiix-cmd/BedrockProxy/README.md](https://github.com/Zwuiix-cmd/BedrockProxy/blob/main/README.md)"><img src="https://img.shields.io/github/v/tag/Zwuiix-cmd/BedrockProxy?label=release&logo=github" alt="GitHub tag (latest semver)" /></a>
 
 ## Serveur testé
 - Azoria
