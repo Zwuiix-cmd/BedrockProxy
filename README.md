@@ -14,7 +14,7 @@ Un proxy hack utilitaire pour Minecraft : Bedrock Edition, celui-ci permet de tr
 - Nitro
 
 ## Comment installer le proxy ?
-- [Download](https://discord.gg/Cut7HTpdrh)
+- [Download](https://discord.gg/4bkWbS9hC2)
 
 ## Comment lancer le proxy ?
 - En 6 étapes
