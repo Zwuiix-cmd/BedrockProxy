@@ -13,6 +13,10 @@ Un proxy hack utilitaire pour Minecraft : Bedrock Edition, celui-ci permet de tr
 - Ausoleil
 - Nitro
 
+## Mise-à-jour 
+- niveau connexion et lancement du proxy
+
+
 ## Comment installer le proxy ?
 - [Download](https://discord.gg/4bkWbS9hC2)
 
