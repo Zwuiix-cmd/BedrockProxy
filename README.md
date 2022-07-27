@@ -2,15 +2,12 @@
 Un proxy hack utilitaire pour Minecraft : Bedrock Edition, celui-ci permet de triché sur tout les serveurs minecraft.
 
 # Version
-'1.19.10 support' (Uniquement PM3)
+'1.19.10 support' (Uniquement PM4)
 
 ## Serveur testé
-- Azoria
-- Solaria
-- TopBoy
+- Tout serveur PM4
 
 ## Serveur bloquer
-- Ausoleil
 - Nitro
 
 ## Mise-à-jour 
@@ -91,3 +88,4 @@ Autres
 - gamemode
 - haste
 - coords
+- spam
